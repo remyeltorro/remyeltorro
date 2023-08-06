@@ -6,6 +6,8 @@ I'm Rémy a PhD student at the Adhesion & Inflammation lab in Marseille, France.
 
 ⚡ Torró is a turron in Catalan, where I suspect my last name comes from. I couldn't resist being named after such a nice sweet, hence my pseudo Rémy the turron. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remyeltorro&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **remyeltorro/remyeltorro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
