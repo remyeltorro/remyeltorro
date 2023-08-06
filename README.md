@@ -3,6 +3,9 @@
 #### The answer to the question you never intended to ask
 
 ⚡ Torró is a turron in Catalan, where I suspect my last name comes from. I couldn't resist being named after such a nice sweet, hence my pseudo Rémy the turron. 
+
+![turron](turron.jpeg)
+
 <!--
 **remyeltorro/remyeltorro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
