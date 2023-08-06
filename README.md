@@ -9,9 +9,6 @@
   <img src="turron.jpeg" alt="Image" width="30" height="30" style="margin-left: 10px;">
 </div>
 
-
-![turron](turron.jpeg)
-
 <!--
 **remyeltorro/remyeltorro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
