@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 ### Hi there 👋
 
 #### The answer to the question you never intended to ask
