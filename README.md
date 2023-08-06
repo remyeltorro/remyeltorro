@@ -5,7 +5,7 @@
 ⚡ Torró is a turron in Catalan, where I suspect my last name comes from. I couldn't resist being named after such a nice sweet, hence my pseudo Rémy the turron. 
 
 <div style="display: flex; align-items: right;">
-  <p>Your text goes here.</p>
+  <p>⚡ Torró is a turron in Catalan, where I suspect my last name comes from. I couldn't resist being named after such a nice sweet, hence my pseudo Rémy the turron. </p>
   <img src="turron.jpeg" alt="Image" width="30" height="30" style="margin-left: 10px;">
 </div>
 
