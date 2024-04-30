@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm Rémy a PhD student at the Adhesion & Inflammation lab in Marseille, France. I love to collaborate with fellow researchers on image analysis and quantification problems. Currently, I am putting all of my energy in a software designed for the comparison of biological conditions at single cell resolution, accessible to biologists, bringing together recent developments in bioimage analysis and some of my own tricks: the upcoming CellDetective. 
+I'm Rémy, a fresh PhD in biophysics with a strong interest in image treatment, data analysis and interfacing. I am looking for a job! 
+
+- 🔭 I’m currently working on [Celldetective](https://github.com/remyeltorro/celldetective)
+- 🌱 I’m currently learning the fundamentals of LLMs
+
 
 #### The answer to the question you never intended to ask
 
