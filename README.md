@@ -8,8 +8,7 @@
 I'm Rémy, a fresh PhD in biophysics with a strong interest in image treatment, data analysis and interfacing. I am looking for a job! 
 
 - 🔭 I’m currently working on [Celldetective](https://github.com/remyeltorro/celldetective)
-- 🌱 I’m currently learning the fundamentals of LLMs
-
+- 🌱 I’m currently going through the [Think Bayes](https://github.com/AllenDowney/ThinkBayes2) book and tutorials by Allen B. Downey.
 
 #### The answer to the question you never intended to ask
 
